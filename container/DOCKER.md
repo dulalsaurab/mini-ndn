@@ -25,7 +25,7 @@ The [Dockerfile](https://github.com/ashiqopu/docker-minindn/blob/master/Dockerfi
 * Pull from hub:
   * Open a terminal and type: 
     ```bash
-    docker pull marahman/minindn
+    docker pull marahman/minindn:v0.2
     ```
 
   * You can then access the container through shell with,
@@ -33,7 +33,7 @@ The [Dockerfile](https://github.com/ashiqopu/docker-minindn/blob/master/Dockerfi
     docker run -m 4g --cpus=4 -it --rm --privileged -e DISPLAY \
               -v /tmp/.X11-unix:/tmp/.X11-unix \
               -v /lib/modules:/lib/modules \
-              marahman/minindn bin/bash
+              marahman/minindn:v0.2 bin/bash
     ```
 
 ### Notes:
