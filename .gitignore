@@ -15,6 +15,7 @@ mininet
 mn_wifi
 ndn-src
 openflow
+.vscode
 
 # Vagrant
 .vagrant

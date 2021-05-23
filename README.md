@@ -24,9 +24,11 @@ Bug reports and feedback are highly appreciated and can be made through our
 
 ### Documentation
 
-Please refer to http://minindn.memphis.edu/ or [docs/index.rst](docs/index.rst) for installation, usage, and other documentation.
-The documentation can be built using:
+* Please refer to http://minindn.memphis.edu/ or [docs/index.rst](docs/index.rst) for installation, usage, and other documentation.
+    The documentation can be built using:
 
-    ./install.sh -d
+        ./install.sh -d
 
-and is available under `docs/_build/html`.
+    and is available under `docs/_build/html`.
+
+* Documentation on using Mini-NDN on containers like Docker and VirtualBox (with vagrant) are now available in the [container](https://github.com/dulalsaurab/mini-ndn-11th-ndn-hackathon/tree/master/container/) directory.

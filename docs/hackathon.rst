@@ -6,4 +6,5 @@ Past NDN Hackathon projects
 - 3rd NDN Hackathon: `Mini-NDN cluster <https://github.com/3rd-ndn-hackathon/mini-NDN-cluster>`_.
 - 4th NDN Hackathon: `Mini-NDN wifi <https://github.com/4th-ndn-hackathon/Mini-NDN-Wi-Fi>`_.
 - 7th NDN Hackathon: `Mini-NDN documentation <https://github.com/7th-ndn-hackathon/mini-ndn-documentation>`_.
+- 11th NDN Hackathon: `Mini-NDN documentation <https://github.com/dulalsaurab/mini-ndn-11th-ndn-hackathon/tree/master/docs>`_.
 
